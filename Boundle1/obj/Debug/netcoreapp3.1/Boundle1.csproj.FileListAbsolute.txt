@@ -1,0 +1,13 @@
+C:\Users\Andrei\source\repos\Boundle1\Boundle1\bin\Debug\netcoreapp3.1\Boundle1.exe
+C:\Users\Andrei\source\repos\Boundle1\Boundle1\bin\Debug\netcoreapp3.1\Boundle1.deps.json
+C:\Users\Andrei\source\repos\Boundle1\Boundle1\bin\Debug\netcoreapp3.1\Boundle1.runtimeconfig.json
+C:\Users\Andrei\source\repos\Boundle1\Boundle1\bin\Debug\netcoreapp3.1\Boundle1.runtimeconfig.dev.json
+C:\Users\Andrei\source\repos\Boundle1\Boundle1\bin\Debug\netcoreapp3.1\Boundle1.dll
+C:\Users\Andrei\source\repos\Boundle1\Boundle1\bin\Debug\netcoreapp3.1\Boundle1.pdb
+C:\Users\Andrei\source\repos\Boundle1\Boundle1\obj\Debug\netcoreapp3.1\Boundle1.AssemblyInfoInputs.cache
+C:\Users\Andrei\source\repos\Boundle1\Boundle1\obj\Debug\netcoreapp3.1\Boundle1.AssemblyInfo.cs
+C:\Users\Andrei\source\repos\Boundle1\Boundle1\obj\Debug\netcoreapp3.1\Boundle1.csproj.CoreCompileInputs.cache
+C:\Users\Andrei\source\repos\Boundle1\Boundle1\obj\Debug\netcoreapp3.1\Boundle1.dll
+C:\Users\Andrei\source\repos\Boundle1\Boundle1\obj\Debug\netcoreapp3.1\Boundle1.pdb
+C:\Users\Andrei\source\repos\Boundle1\Boundle1\obj\Debug\netcoreapp3.1\Boundle1.genruntimeconfig.cache
+C:\Users\Andrei\source\repos\Boundle1\Boundle1\obj\Debug\netcoreapp3.1\Boundle1.csprojAssemblyReference.cache
