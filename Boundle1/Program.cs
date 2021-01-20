@@ -8,6 +8,8 @@ namespace Boundle1
         {
             pool1 p = new pool1();
 
+            #region pool1 -probleme cu numere
+
             // ****************** Vectori **************** 
             ExercitiiVectori v = new ExercitiiVectori();
             // 1.   
@@ -75,7 +77,7 @@ namespace Boundle1
             //p.euclidAlgo();
 
             //Afisati descompunerea in factori primi ai unui numar n.De ex.pentru n = 1776 afisati 2 ^ 3 x 3 ^ 1 x 7 ^ 2.
-            p.monotonCrescatir();
+            // p.monotonCrescatir();
 
             //Determinati daca un numar e format doar cu 2 cifre care se pot repeta.De ex. 23222 sau 9009000 sunt astfel de numere, pe cand 593 si 4022 nu sunt.
 
@@ -84,6 +86,21 @@ namespace Boundle1
 
 
             //Ghiciti un numar intre 1 si 1024 prin intrebari de forma "numarul este mai mare sau egal decat x?".
+            #endregion  region 
+            pool2 p2 = new pool2();
+            #region pool 2 - problemem cu secvente 
+            //p2.secventaNrPare();
+            //p2.detNum();
+            //p2.sumaSiProdusus();
+            //p2.pozInSec();
+            //p2.egalCuPozitia();
+            //p2.secventaCrescatoare();
+            //p2.secventaMicaSiMare();
+            //p2.secventaMonotona();
+            //p2.secventaFib(13);
+            //p2.numarMaximInSecveta(15);
+            p2.sumaInverselor(8);
+            #endregion
 
 
         }
