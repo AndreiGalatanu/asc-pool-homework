@@ -1,0 +1,2 @@
+# asc-pool-homework
+exercitii 
